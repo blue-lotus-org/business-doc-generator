@@ -1,0 +1,5 @@
+{
+  "name": "AI Business Idea Assistant",
+  "description": "An AI-powered application to help users develop their business ideas by generating proposals, business plans, roadmaps, milestones, financial projections, market research, and technical PRDs. Users can also request edits to the generated documents.",
+  "requestFramePermissions": []
+}
